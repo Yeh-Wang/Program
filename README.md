@@ -1,4 +1,3 @@
 # Program
 
-* self  
-*   
+* self learning  
